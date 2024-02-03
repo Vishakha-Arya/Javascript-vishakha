@@ -1,2 +1,2 @@
-# Javascript-vishakha
+# Js-vishakha
 javascript from youtube
